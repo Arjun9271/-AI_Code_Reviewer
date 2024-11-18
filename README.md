@@ -64,9 +64,6 @@ streamlit run app.py
 The application requires the following environment variable:
 - `GOOGLE_API_KEY`: Your Google API key for accessing the Gemini model
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Arjun9271/AI_Code_Reviewer/issues).
 
 ## ⚠️ Note
 
