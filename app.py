@@ -35,7 +35,7 @@ def generate(prompt):
 
 
 
-st.title("🤖 AI Code Reviewer")
+st.title("🤖AI Code Reviewer")
 
 user_input = st.text_area("Enter your code here.....")
 
